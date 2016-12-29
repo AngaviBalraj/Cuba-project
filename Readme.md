@@ -1,2 +1,6 @@
 Hello
-friend
+friend  
+hello
+heoll'
+bsmhdcvdh
+bcsvc
