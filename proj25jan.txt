@@ -1,0 +1,1 @@
+Created entity related to oraganization part. Then studied about map integration.
